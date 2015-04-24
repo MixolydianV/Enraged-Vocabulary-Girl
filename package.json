@@ -1,0 +1,23 @@
+{
+  "name": "Enraged-Vocabulary-Girl",
+  "version": "1.0.0",
+  "description": "Enraged Vocabulary Girl",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://MixolydianV@github.com/MixolydianV/Enraged-Vocabulary-Girl.git"
+  },
+  "author": "Jeffrey Brown",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MixolydianV/Enraged-Vocabulary-Girl/issues"
+  },
+  "homepage": "https://github.com/MixolydianV/Enraged-Vocabulary-Girl",
+  "dependencies": {
+    "express": "^4.12.3"
+  }
+}
